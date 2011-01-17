@@ -1,5 +1,5 @@
 { "name" : "prototype"
-, "version" : "v0.0.1"
+, "version" : "v0.0.5"
 , "description" : "Implementation of Prototypejs in Node.js"
 , "main" : "./lib/index"
 , "author" : 
