@@ -1,3 +1,7 @@
-{
-  
+{ "name" : "prototype"
+, "version" : "v0.0.1"
+, "description" : "Implementation of Prototypejs in Node.js"
+, "directories" : { "lib" : "./lib" }
+, "main" : "./lib/index"
+, "homepage" : "http://github.com/rixius/prototype.node.js"
 }
